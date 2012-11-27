@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<traditional>
+<phrase><s>早上好</s><r>早安</r></phrase>
+</traditional>
+<simplified>
+<phrase><s>早安</s><r>早上好</r></phrase>
+</simplified>
+</manifest>
